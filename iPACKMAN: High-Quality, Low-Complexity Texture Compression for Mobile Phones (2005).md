@@ -1,6 +1,7 @@
 # iPACKMAN: High-Quality, Low-Complexity Texture Compression for Mobile Phones
 - Author : Ström, Jacob, and Tomas Akenine-Möller.
 - Published in : ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware. 2005.
+- Tags : 
 
 ## Summary
 본 논문은 PACKMAN 의 연구의 연장선이다. 

@@ -1,7 +1,7 @@
 # PACKMAN: Texture Compression for Mobile Phones
 - Author : Ström, Jacob, and Tomas Akenine-Möller.
 - Published in : ACM SIGGRAPH 2004 Sketches
-- Tag : Texture Compression, Texture
+- Tags : Texture Compression, Texture
 
 ## Summary
 본 논문은 Mobile device를 위한 새로운 lossy texture compression 방식을 제안한다.

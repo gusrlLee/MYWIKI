@@ -1,6 +1,7 @@
 # A Survey of Temporal Antialiasing Techniques
-Author : Yang, Lei, Shiqiu Liu, and Marco Salvi.  
-Published in : Computer graphics forum 2020.  
+- Author : Yang, Lei, Shiqiu Liu, and Marco Salvi.  
+- Published in : Computer graphics forum 2020.  
+- Tags : 
 
 ## Abstract 
 Temporal Antialiasing (TAA), formally defined as temporally-amoortized supersampling, is the most widely used antialiasing techniques in today's real-time renderers and game engines.

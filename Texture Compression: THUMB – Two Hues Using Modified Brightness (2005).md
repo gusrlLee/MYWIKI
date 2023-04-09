@@ -1,6 +1,7 @@
 # Texture Compression: THUMB – Two Hues Using Modified Brightness
 - Author : PETTERSSON M., STRÖM J.
 - Published in : Sigrad, Lund 2005 
+- Tags : Texture Compression, Texture, ETC2
 
 ## Summary
 본 논문은 ETC1의 고질적인 box artifact를 개선시키기 위해 RGB space의 패턴에 따라 2가지의 mode를 추가한다.

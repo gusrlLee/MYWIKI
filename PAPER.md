@@ -4,7 +4,7 @@
 - [[An Improved Illumination Model for Shaded Display (1979)]]
 - [[Are we done with Ray Tracing? (2019)]]
 - [[ASTC Block-Size Determination Method based on PSNR Values (2022)]]
-- [[Embree: A Kernel Framework for Efficient CPU Ray Tracing (1981)]]
+- [[Embree: A Kernel Framework for Efficient CPU Ray Tracing (2014)]]
 - [[ETC2: Texture Compression using Invalid Combinations (2007)]]
 - [[Fast BVH Construction on GPUs (2009)]]
 - [[FasTC: Accelerated Fixed-Rate Texture Encoding (2013)]]

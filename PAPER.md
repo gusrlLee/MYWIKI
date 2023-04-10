@@ -32,4 +32,4 @@
 - [[Understanding the Efficiency of Ray Traversal on GPUs (2009)]]
 - [[CPU-GPU Hybrid Real Time Ray Tracing Framework (1981)]]
 - [[Chimera: Collaborative Preemption for Multitasking on a Shared GPU (2015)]]
-
+- [[BetsyGPU: Texture Compression Technique using GPU in Godot Engine]]

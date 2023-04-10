@@ -4,6 +4,11 @@
 - Tags : Optimization, Texture Compression, ETC2
 
 ## Summary
+극한의 최적화와 매우 빠른 성능을 목표로 하는 Encoder 이다.
+접근 방식은 기존 ETC2 의 T,H,P-mode를 전부 수행 하지 않고 기존과 다르게 먼저 Luma 값을 기반으로 pixel의 RGB space 를 1차원으로 나타낸다. 
+그리고 Luma 값의 Min/Max 값을 이용하여 각 차이 값을 구한다. 
+다음 Min/Max 값의 차이 값에 대한 threshold를 두어 constrast 를 4 step으로 나누어 수행되는 ETC2 mode를 선택하게 만들어준다. 
+결과적으로 기존 etcpak와 품질은 유지하며, 속도는 약 1ms 대로 현존하는 CPU encoder 중 가장 빠른 compressor 이다.
 
 ## Detail
 ### Introduction.

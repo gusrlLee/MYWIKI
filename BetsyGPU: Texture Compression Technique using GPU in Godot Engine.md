@@ -4,6 +4,12 @@
 - Tags : Texture Compression, GPU, GLSL
 
 ## Summary
+Betsy GPU 라는 것은 여러가지의 texture compression format을 위한 GPU encoder 이다. 
+OpenGL API를 사용하여 한번에 많은 연산을 빠르게 처리할 수 있다. 
+ETC2 format는 rg_etc1을 참고하고 k-means clustering iteration 에 대해서 모든 color값을 계산한다. 
+그리고 P-mode 는 기존 P-mode와 다르게 inside pixel 까지 검사하여 더 높은 품질을 나타낼 수 있게 노력한다.
+추가적으로 Simple Linear Regression 을 사용하여 더 fit한 color 를 만든다고 한다. 
+그래서 최종적으로 가장 작은 error를 가지는 결과 값을 사용하여 compressed data를 저장한다고 한다. 
 
 ## Detail
 ### How does Betsy work?

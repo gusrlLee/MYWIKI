@@ -1,6 +1,6 @@
 # BetsyGPU: Texture compression Technique using GPU in Godot Engine
 - Author : darksylinc
-- GITHUB link : https://github.com/darksylinc/betsy
+- github link : https://github.com/darksylinc/betsy
 - Tags : Texture Compression, GPU, GLSL
 
 ## Summary

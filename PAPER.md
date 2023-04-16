@@ -34,3 +34,4 @@
 - [[Chimera: Collaborative Preemption for Multitasking on a Shared GPU (2015)]]
 - [[BetsyGPU: Texture Compression Technique using GPU in Godot Engine]]
 - [[Etc2Comp-Texture to ETC2 compressor]]
+
